@@ -5,6 +5,9 @@ https://github.com/Yo3110/Power-BI-Tableau-Projects/assets/143214362/35af88d7-eb
 
 ![image](https://github.com/Yo3110/Power-BI-Tableau-Projects/assets/143214362/42973b6a-29ee-424d-8c94-77ad2d604a40)
 
+Dashboard Link : [SuperStore Sales Dashboard_Power BI]( https://github.com/Yo3110/Power-BI-Tableau-Projects/blob/main/SuperStore%20Sales%20Dashboard/SuperStore%20Sales%20Dashboard.pbix)
+
+**Data Cleaning, Analysis and Data Visualization: Microsoft Power B**I
 
 ## 🎯Objective
 
