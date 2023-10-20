@@ -14,12 +14,12 @@ In this section I will list Power BI/Tableau Analytics Projects briefly describi
 
 **Description**:
 
-**Dashboard Creation**: Identify the KPIs, design an intuitive and visually appealing dashboard, add interactive visualizations and filtering capabilities to allow users to explore the data at various levels of granularity 
+_**Dashboard Creation:**_ Identify the KPIs, design an intuitive and visually appealing dashboard, add interactive visualizations and filtering capabilities to allow users to explore the data at various levels of granularity 
 
-**Data Analysis**: Provide valuable insights to business entities regarding the effectiveness of their sales strategies through visualization and charts
+_**Data Analysis:**_ Provide valuable insights to business entities regarding the effectiveness of their sales strategies through visualization and charts
 
-**Sales Forecasting**: Leverage historic data and apply time series generate sales forecasts for next 15 days
+_**Sales Forecasting:**_ Leverage historic data and apply time series generate sales forecasts for next 15 days
 
-**Actionable Insights and Recommendations**: End goal is to share valuable insights and actionable information that can drive strategic decision-making support the supermarket's goals for growth, efficiency and customer satisfaction
+_**Actionable Insights and Recommendations:**_ End goal is to share valuable insights and actionable information that can drive strategic decision-making support the supermarket's goals for growth, efficiency and customer satisfaction
 
 Technology: Microsoft Power BI
