@@ -3,6 +3,9 @@ This project is about finding the SuperStore Sales using BI reports
 
 https://github.com/Yo3110/Power-BI-Tableau-Projects/assets/143214362/35af88d7-ebbd-415d-b550-d0dfead9aca6
 
+![image](https://github.com/Yo3110/Power-BI-Tableau-Projects/assets/143214362/42973b6a-29ee-424d-8c94-77ad2d604a40)
+
+
 ## 🎯Objective
 
 To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
