@@ -1,9 +1,14 @@
 ### Power-BI-Tableau-Projects
 This repository contains a Power BI/Tableau focused project for Dashboard/Data visualization. The Dashboard provides insights, visualizations, and data analysis related to different projects. It is designed to help make data-driven decisions.
 
-# Portfolio Projects
+## Portfolio Projects
 
 In this section I will list Power BI/Tableau Analytics Projects briefly describing the technology stack used to solve cases.
+
+# Superstore Sales Dashboard  
+![MyStoreBuildingGIF](https://github.com/Yo3110/Power-BI-Tableau-Projects/assets/143214362/2bacd119-7143-4b08-8899-f5f3948153e6)
+
+
 
 [Project Link](https://github.com/Yo3110/Power-BI-Tableau-Projects/tree/main/SuperStore%20Sales%20Dashboard)
 
