@@ -1,7 +1,8 @@
-🎯 Objective
+🎯 **Objective**
+
 To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
 
-➡ Key Insights
+➡ **Key Insights**
 
 💹 Total Sales, Quantity, and Profit: Our dashboard provides a holistic view of the Superstore's total profits, sales, and quantity generated.
 
@@ -17,10 +18,20 @@ To contribute to the success of a business by utilizing data analysis techniques
 
 🗺️ Mapping Net Sales and Profit by Region 🌏: Geographical maps provide a powerful visual representation of net sales and profit, allowing us to identify areas with untapped potential.
 
-🔑 Key Takeaways
+🔑 **Key Takeaways**
 ✅ Effective data extraction
 ✅ Utilization of diverse chart types
 ✅ In-depth time-based and regional analysis
+
+_**Learning**_
+
+Incorporated data analysis techniques, specialization in time series analysis, to deliver valuable insights, accurate sales forecasting, and interactive dashboard creation, driving business success.
+
+https://github.com/Yo3110/Power-BI-Tableau-Projects/assets/143214362/35af88d7-ebbd-415d-b550-d0dfead9aca6
+
+
+
+
 
  
 
