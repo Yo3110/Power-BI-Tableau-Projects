@@ -7,7 +7,7 @@ In this section I will list Power BI/Tableau Analytics Projects briefly describi
 
 [Project Link](https://github.com/Yo3110/Power-BI-Tableau-Projects/tree/main/SuperStore%20Sales%20Dashboard)
 
-**Description**
+**Description**:
 
 **Dashboard Creation**: Identify the KPIs, design an intuitive and visually appealing dashboard, add interactive visualizations and filtering capabilities to allow users to explore the data at various levels of granularity 
 
