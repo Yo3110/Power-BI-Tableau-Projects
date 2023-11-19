@@ -5,7 +5,7 @@ This repository contains a Power BI/Tableau focused project for Dashboard/Data v
 
 In this section I will list Power BI/Tableau Analytics Projects briefly describing the technology stack used to solve cases.
 
-# Superstore Sales Dashboard 🏬 
+# Superstore Sales Power BI Dashboard 🏬 
 
 [Project Link](https://github.com/Yo3110/Power-BI-Tableau-Projects/tree/main/SuperStore%20Sales%20Dashboard)
 
